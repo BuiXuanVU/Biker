@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Car1
+  - Car2
+  - Dog
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 3727430495
+    locked: 0
+  - name: 2
+    uniqueID: 1797625429
+    locked: 0
+  - name: 3
+    uniqueID: 71377035
+    locked: 0
+  - name: 4
+    uniqueID: 2484797909
+    locked: 0
+  - name: 5
+    uniqueID: 2555063187
     locked: 0
